@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 group-title="Общероссийские" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="Первый канал", Первый канал 
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="Россия 1", Россия 1
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="НТВ", НТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://dvb.by/sources/logos/1373s.png", ТНВ ПЛАНЕТА
+http://origin5.mediacdn.ru/live/tnvplaneta/index.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://dvb.by/sources/logos/1105s.png", ТНВ ТАТАРСТАН
+https://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
+#EXTINF:-1 group-title="Новости" tvg-logo="https://dvb.by/sources/logos/1616s.png", ТАТАРСТАН-24
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/TatTVR_tat24_1f55f482a2df2bede07c661806c4eb/hls/1920x1080@4504/playlist.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://dvb.by/sources/logos/1181s.png", Башкортостан 24
+http://109.233.169.137/540/b24-540.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-logo="https://dvb.by/sources/logos/1181s.png", БСТ
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST/variant.m3u8?version=2
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://pic.rutube.ru/user/ef/24/ef24f0270eeeec1c4dd19b57439d86e2.png", АРИС 24 (УФА)
+http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://rus.bashgazet.ru/uploads/posts/2019-10/1570542324_saljam.jpg", САЛЯМ
+https://bsttv.bonus-tv.ru/cdn/salyam/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://dvb.by/sources/logos/1376s.png", МАЙДАН
+http://live-maidantv.cdnvideo.ru/maidantv/maidantv_480/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://dvb.by/sources/logos/1376s.png", МАЙДАН HD
+http://live-maidantv.cdnvideo.ru/maidantv/maidantv_720/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://images.vfl.ru/ii/1597257057/d7906c93/31326174.jpg", КУНЕЛ ТВ
+http://hls-iptv.tattelecom.ru:80/online_tv_Kynel/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://dvb.by/sources/logos/3872.png", TMTV
+http://hls-iptv.tattelecom.ru:80/online_tv_TMTV/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://dvb.by/sources/logos/3459s.png", МАТУР ТВ HD
+https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://dvb.by/sources/logos/1727s.png", ТУГАН ТЕЛ
+http://213.59.128.165:8080/Tugantel/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://dvb.by/sources/logos/1727s.png", ТУГАН ТЕЛ HD
+http://streamer.rtcommufa.ru:1935/tugantel/hd/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://www.ph4.ru/DL/LOGO/k/kurai_tv.gif", КУРАЙ ТВ
+https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
+#EXTINF:-1 group-title="Религия" tvg-logo="https://www.cableman.ru/sites/default/files/huzur.png?1536644109", ХУЗУР ТВ
+https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
