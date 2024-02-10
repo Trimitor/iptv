@@ -16,13 +16,11 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 tvg-logo="https://images.vfl.ru/ii/1597257057/d7906c93/31326174.jpg", КУНЕЛ ТВ
 http://hls-iptv.tattelecom.ru:80/online_tv_Kynel/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="ТВЦ", ТВЦ
-https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TVC/variant.m3u8
-#EXTINF:-1 tvg-id="Рен ТВ", РЕН ТВ HD
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTVHD/variant.m3u8
-#EXTINF:-1 tvg-id="Спас", СПАС
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+#EXTINF:-1 tvg-id="Рен ТВ", РЕН ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 tvg-id="СТС", СТС
-https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STS/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 tvg-id="СТС", Домашний
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:-1 tvg-id="ТВ 3", ТВ 3
