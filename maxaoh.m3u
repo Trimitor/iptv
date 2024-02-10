@@ -1,10 +1,42 @@
 #EXTM3U
-#EXTINF:-1 group-title="Общероссийские" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="Первый канал", Первый канал 
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="Первый канал", Первый канал 
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
-#EXTINF:-1 group-title="Общероссийские" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="Россия 1", Россия 1
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="Россия 1", Россия 1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Общероссийские" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="НТВ", НТВ
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://rus.bashgazet.ru/uploads/posts/2019-10/1570542324_saljam.jpg", САЛЯМ
+https://bsttv.bonus-tv.ru/cdn/salyam/playlist_sdhigh.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="НТВ", НТВ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+#EXTINF:-1 tvg-id="Пятый канал", Пятый канал
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+#EXTINF:-1 tvg-id="Россия К", Россия К
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+#EXTINF:-1 tvg-id="Россия 24", Россия 24
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
+#EXTINF:-1 tvg-logo="https://images.vfl.ru/ii/1597257057/d7906c93/31326174.jpg", КУНЕЛ ТВ
+http://hls-iptv.tattelecom.ru:80/online_tv_Kynel/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="ТВЦ", ТВЦ
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TVC/variant.m3u8
+#EXTINF:-1 tvg-id="Рен ТВ", РЕН ТВ HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTVHD/variant.m3u8
+#EXTINF:-1 tvg-id="Спас", СПАС
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
+#EXTINF:-1 tvg-id="СТС", СТС
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STS/variant.m3u8
+#EXTINF:-1 tvg-id="СТС", Домашний
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:-1 tvg-id="ТВ 3", ТВ 3
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTINF:-1 tvg-id="Пятница", Пятница!
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:-1 tvg-id="Звезда", Звезда
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
+#EXTINF:-1 tvg-id="Звезда", Мир
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+#EXTINF:-1 tvg-id="ТНТ", ТНТ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2
+#EXTINF:-1 tvg-id="ТНТ", Муз ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://dvb.by/sources/logos/1373s.png", ТНВ ПЛАНЕТА
 http://origin5.mediacdn.ru/live/tnvplaneta/index.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://dvb.by/sources/logos/1105s.png", ТНВ ТАТАРСТАН
@@ -17,14 +49,8 @@ http://109.233.169.137/540/b24-540.m3u8
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST/variant.m3u8?version=2
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://pic.rutube.ru/user/ef/24/ef24f0270eeeec1c4dd19b57439d86e2.png", АРИС 24 (УФА)
 http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://rus.bashgazet.ru/uploads/posts/2019-10/1570542324_saljam.jpg", САЛЯМ
-https://bsttv.bonus-tv.ru/cdn/salyam/playlist_sdhigh.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://dvb.by/sources/logos/1376s.png", МАЙДАН
-http://live-maidantv.cdnvideo.ru/maidantv/maidantv_480/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://dvb.by/sources/logos/1376s.png", МАЙДАН HD
 http://live-maidantv.cdnvideo.ru/maidantv/maidantv_720/playlist.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://images.vfl.ru/ii/1597257057/d7906c93/31326174.jpg", КУНЕЛ ТВ
-http://hls-iptv.tattelecom.ru:80/online_tv_Kynel/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://dvb.by/sources/logos/3872.png", TMTV
 http://hls-iptv.tattelecom.ru:80/online_tv_TMTV/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://dvb.by/sources/logos/3459s.png", МАТУР ТВ HD
