@@ -20,7 +20,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 #EXTINF:-1 tvg-id="ТВЦ", ТВЦ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 #EXTINF:-1 tvg-id="Живая планета", Живая планета
-https://woobl.ru/hls987/Zhivaya_Planeta.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_JIVAYAPLANETA/variant.m3u8?version=2
 #EXTINF:-1 group-title="Религия" tvg-logo="https://www.cableman.ru/sites/default/files/huzur.png?1536644109", ХУЗУР ТВ
 https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="СТС", Домашний
