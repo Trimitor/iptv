@@ -19,12 +19,10 @@ http://hls-iptv.tattelecom.ru:80/online_tv_Kynel/tracks-v1a1/index.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 #EXTINF:-1 tvg-id="ТВЦ", ТВЦ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
-#EXTINF:-1 tvg-id="Рен ТВ", РЕН ТВ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:-1 tvg-id="Живая планета", Живая планета
+https://woobl.ru/hls987/Zhivaya_Planeta.m3u8
 #EXTINF:-1 group-title="Религия" tvg-logo="https://www.cableman.ru/sites/default/files/huzur.png?1536644109", ХУЗУР ТВ
 https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
-#EXTINF:-1 tvg-id="СТС", СТС
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 tvg-id="СТС", Домашний
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:-1 tvg-id="ТВ 3", ТВ 3
@@ -33,11 +31,11 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 #EXTINF:-1 tvg-id="Звезда", Звезда
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
-#EXTINF:-1 tvg-id="Звезда", Мир
+#EXTINF:-1 tvg-id="Мир", Мир
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
-#EXTINF:-1 tvg-id="ТНТ", ТНТ
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="ТНТ", Муз ТВ
+#EXTINF:-1 tvg-id="Зоопарк", Зоопарк
+https://woobl.ru/hls987/Zoopark.m3u8
+#EXTINF:-1 tvg-id="Муз ТВ", Муз ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://dvb.by/sources/logos/1373s.png", ТНВ ПЛАНЕТА
 http://origin5.mediacdn.ru/live/tnvplaneta/index.m3u8
