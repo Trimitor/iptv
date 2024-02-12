@@ -8,9 +8,7 @@ https://bsttv.bonus-tv.ru/cdn/salyam/playlist_sdhigh.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="НТВ", НТВ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 #EXTINF:-1 tvg-id="Пятый канал", Пятый канал
-http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
-#EXTINF:-1 tvg-id="Россия К", Россия К
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 #EXTINF:-1 tvg-id="Россия 24", Россия 24
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 tvg-logo="https://images.vfl.ru/ii/1597257057/d7906c93/31326174.jpg", КУНЕЛ ТВ
@@ -20,35 +18,21 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 #EXTINF:-1 tvg-id="ТВЦ", ТВЦ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 #EXTINF:-1 tvg-id="Живая планета", Живая планета
-http://109.239.208.82:80/liveplanet/index.m3u8
-#EXTINF:-1 group-title="Религия" tvg-logo="https://www.cableman.ru/sites/default/files/huzur.png?1536644109", ХУЗУР ТВ
-https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
+http://109.239.208.82:80/liveplanet/index.m3u8
 #EXTINF:-1 tvg-id="Домашний", Домашний
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
-#EXTINF:-1 tvg-id="ТВ 3", ТВ 3
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:-1 tvg-logo="https://sun9-8.userapi.com/c831409/v831409661/14585d/4oamE06KuOw.jpg" tvg-id="Пятница!", Пятница!
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 #EXTINF:-1 tvg-id="Звезда", Звезда
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
-#EXTINF:-1 tvg-id="Мир", Мир
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
 #EXTINF:-1 tvg-id="Зоопарк", Зоопарк
-https://woobl.ru/hls987/Zoopark.m3u8
-#EXTINF:-1 tvg-id="Муз ТВ", Муз ТВ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+https://woobl.ru/hls987/Zoopark.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://dvb.by/sources/logos/1373s.png", ТНВ ПЛАНЕТА
 http://origin5.mediacdn.ru/live/tnvplaneta/index.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://dvb.by/sources/logos/1105s.png", ТНВ ТАТАРСТАН
 https://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
 #EXTINF:-1 group-title="Новости" tvg-logo="https://dvb.by/sources/logos/1616s.png", ТАТАРСТАН-24
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/TatTVR_tat24_1f55f482a2df2bede07c661806c4eb/hls/1920x1080@4504/playlist.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://dvb.by/sources/logos/1181s.png", Башкортостан 24
-http://109.233.169.137/540/b24-540.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://dvb.by/sources/logos/1181s.png", БСТ
-https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST/variant.m3u8?version=2
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://pic.rutube.ru/user/ef/24/ef24f0270eeeec1c4dd19b57439d86e2.png", АРИС 24 (УФА)
-http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://dvb.by/sources/logos/3872.png", TMTV
 http://hls-iptv.tattelecom.ru:80/online_tv_TMTV/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://dvb.by/sources/logos/1376s.png", МАЙДАН HD
