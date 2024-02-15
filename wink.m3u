@@ -159,3 +159,13 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
 #EXTINF:-1 group-title="Общероссийские" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="ТВ Центр (+7)",ТВ Центр (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
+#EXTINF:-1 tvg-id="Наша Сибирь 4K", Наша Сибирь 4K
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="Шансон ТВ", Шансон ТВ
+https://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="Жара Kids", Жара Kids
+https://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
+#EXTINF:-1 group-title="Новостные" tvg-id="Известия ТВ", Известия ТВ HD
+https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1 group-title="Новостные" tvg-id="Ю", Ю
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
