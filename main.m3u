@@ -13,7 +13,9 @@ https://cdn.ntv.ru/th_serial/index.m3u8
 https://cdn.ntv.ru/th_pravo/index.m3u8
 #EXTINF:-1 tvg-name="НТВ Стиль" ,НТВ Стиль
 https://cdn.ntv.ru/index.m3u8
-#EXTINF:-1 tvg-name="РТД" ,РТД
+#EXTINF:-1 tvg-name="RT Документальный" ,RT Документальный
 http://rtmp.api.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 tvg-name="Звезда" ,Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-name="Известия ТВ" ,Известия ТВ
+https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
