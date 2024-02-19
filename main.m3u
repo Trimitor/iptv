@@ -1,8 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Первый канал" ,Первый канал HD
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 tvg-name="Неизвестная Россия" ,Неизвестная Россия
-https://cdn.ntv.ru/unknown_russia/index.m3u8
+#EXTINF:-1 tvg-name="Россия 1" ,Россия 1
+https://player.smotrim.ru/iframe/stream/live_id/2961
+#EXTINF:-1 tvg-id="Россия 24",Россия 24
+https://player.smotrim.ru/iframe/stream/live_id/21
+#EXTINF:-1 tvg-id="Россия К",Россия-К
+https://player.smotrim.ru/iframe/stream/live_id/19201
 #EXTINF:-1 tvg-name="НТВ" ,НТВ HD
 https://cdn.ntv.ru/ntv0_hd/index.m3u8
 #EXTINF:-1 tvg-name="НТВ Хит" ,НТВ Хит
@@ -19,3 +23,25 @@ http://rtmp.api.rt.com/hls/rtdru.m3u8
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-name="Известия ТВ" ,Известия ТВ
 https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1 tvg-name="Ратник" ,Ратник
+https://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Неизвестная Россия" ,Неизвестная Россия
+https://cdn.ntv.ru/unknown_russia/index.m3u8
+#EXTINF:-1 tvg-name="ТНТ Music",ТНТ Music
+https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8
+#EXTINF:-1 tvg-name="Соловьев LIVE",Соловьев LIVE
+https://player.smotrim.ru/iframe/stream/live_id/63338
+#EXTINF:-1 tvg-name="RU TV",RU TV
+https://hls-03-video.webcaramba.com/rutv/live.m3u8
+#EXTINF:-1 tvg-name="Аист ТВ",Аист ТВ
+https://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Звезда Плюс",Звезда Плюс
+http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist.m3u8
+#EXTINF:-1 tvg-name="Солнце",Солнце
+https://tv.mediacdn.ru/live/disney/playlist.m3u8
+#EXTINF:-1 tvg-name="ТНТ4",ТНТ4
+https://tv.mediacdn.ru/live/tnt4/playlist.m3u8
+#EXTINF:-1 tvg-name="Shopping Live",Shopping Live
+https://shoppinglive.mediacdn.ru/cdn/shopping/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-name="Радость Моя",Радость Моя
+http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
