@@ -8,25 +8,20 @@ https://bsttv.bonus-tv.ru/cdn/salyam/playlist_sdhigh.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="НТВ", НТВ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 #EXTINF:-1 tvg-id="Пятый канал", Пятый канал
-http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+
 #EXTINF:-1 tvg-id="Россия 24", Россия 24
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 tvg-logo="https://images.vfl.ru/ii/1597257057/d7906c93/31326174.jpg", КУНЕЛ ТВ
 http://hls-iptv.tattelecom.ru:80/online_tv_Kynel/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="ОТР", ОТР
 https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
-#EXTINF:-1 tvg-id="ТВЦ", ТВЦ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 #EXTINF:-1 tvg-id="Живая планета", Живая планета
-http://109.239.208.82:80/liveplanet/index.m3u8
-#EXTINF:-1 tvg-id="Домашний", Домашний
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
-#EXTINF:-1 tvg-logo="https://sun9-8.userapi.com/c831409/v831409661/14585d/4oamE06KuOw.jpg" tvg-id="Пятница!", Пятница!
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
-#EXTINF:-1 tvg-id="Звезда", Звезда
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
+http://109.239.208.82:80/liveplanet/index.m3u8
+
 #EXTINF:-1 tvg-id="Зоопарк", Зоопарк
-https://woobl.ru/hls987/Zoopark.m3u8
+https://woobl.ru/hls987/Zoopark.m3u8
+
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://dvb.by/sources/logos/1373s.png", ТНВ ПЛАНЕТА
 http://origin5.mediacdn.ru/live/tnvplaneta/index.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://dvb.by/sources/logos/1105s.png", ТНВ ТАТАРСТАН
@@ -39,9 +34,5 @@ http://hls-iptv.tattelecom.ru:80/online_tv_TMTV/tracks-v1a1/index.m3u8
 http://live-maidantv.cdnvideo.ru/maidantv/maidantv_720/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://dvb.by/sources/logos/3459s.png", МАТУР ТВ HD
 https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://dvb.by/sources/logos/1727s.png", ТУГАН ТЕЛ
-http://213.59.128.165:8080/Tugantel/index.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://dvb.by/sources/logos/1727s.png", ТУГАН ТЕЛ HD
-http://streamer.rtcommufa.ru:1935/tugantel/hd/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://www.ph4.ru/DL/LOGO/k/kurai_tv.gif", КУРАЙ ТВ
 https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
