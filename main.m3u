@@ -49,7 +49,7 @@ http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="2x2",2x2
 http://mfe02.cliptv.az/dash/2x2_SDhhh63hd.ism/playlist.mpd
-#EXTINF:-1 tvg-name="viju tv1000 русское кино",viju tv100 русское кино
+#EXTINF:-1 tvg-name="viju tv1000 русское кино",VIJU TV1000 Русское кино
 https://stream2.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Настоящее время",Настоящее время
 https://rfe-ingest.akamaized.net/hls/live/2033043-b/tvmc05/playlist_1080.m3u8
