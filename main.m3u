@@ -50,6 +50,6 @@ https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="2x2",2x2
 http://mfe02.cliptv.az/dash/2x2_SDhhh63hd.ism/playlist.mpd
 #EXTINF:-1 tvg-name="Настоящее время",Настоящее время
-https://rfe-ingest.akamaized.net/hls/live/2033043-b/tvmc05/playlist_1080.m3u8
+https://rferl-ingest.akamaized.net/hls/live/2121657/tvmc05/playlist_1080.m3u8
 #EXTINF:-1 tvg-name="Дождь",Дождь
 https://wl.tvrain.tv/transcode/ngrp:ses_all/chunklist_b1096000.m3u8
